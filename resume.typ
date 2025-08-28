@@ -61,7 +61,7 @@
 #experience(
   [#link("https://naplab.ee.columbia.edu")[Neural Acoustic Processing Lab]], 
   "Columbia Engineering",
-  "MATLAB signal processing methods for minimally-invasive neural implants", 
+  "MATLAB signal processing methods for minimally-invasive human neural implants", 
   "Jun 2023 — Aug 2023"
 )
 
@@ -97,21 +97,19 @@
 - 1 of 8 teams selected nationally for \$7,500 grant, only team to win Microsoft Make What's Next grant
 
 = Projects
-#block[
-*Watch:* \
+*Watch:* Building an esp32s3-based smartwatch using KiCAD, Onshape, and Rust
+- Features: OLED touchscreen, laser pointer, flashight, motor, uSD, 2 mics, IMU, and SpO2+Heart Rate Sensor
+- All drivers open-sourced and written in async Rust, as well as #link("https://github.com/dezash123/watch-code")[code] and #link("https://github.com/dezash123/watch-pcb")[ECAD]
+#v(-0.5em)
 #link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* Open-source Superwhisper clone, written with Tauri (Rust and Svelte)\
 *NHRL:* Designed robots for and competed in the NHRL Combat Robotics Competition in 
 #link("https://cad.onshape.com/documents/5db65241c15c1a40207cdb68/w/5b0878d5d392370d5dc5d720/e/af5d9055308e9599eec4a230")[2023]
 and
 #link("https://cad.onshape.com/documents/fb97b0c83d4990d552ccf9c7/w/65389039cf4ce3811c2bf8e5/e/504ae827bc8a3318a1763ed1")[2024]\
-#link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an FPV drone using KiCAD, Onshape, and Rust
+#link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an rp2040-based FPV drone using KiCAD, Onshape, and Rust
 - Wrote control systems and multiple drivers from scratch; codebase is 100% Rust
 #v(-0.5em)
 *Congressional App Challenge:* Developed an app to track water quality; 2023 Winner, District NY01
-]
 
-#custom-title("Skills")[
-*Programming:* C, Rust, C++, Python, MATLAB, Java, Go, JS/TS, React, Svelte, Verilog, CUDA \
-*CAD:* Experienced in Onshape, Solidworks, Fusion360, KiCad, Magic VLSI \
-
-]
+= Experience
+*Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, JS/TS, React, Svelte, Verilog, CUDA, Nix \
