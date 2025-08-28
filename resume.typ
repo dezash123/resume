@@ -7,7 +7,6 @@
 #let linkedin = "desmondmehta"
 #let personal-site = "desmondmehta.com"
 
-#let spacing-between = -.8em
 
 #show link: underline
 
@@ -25,96 +24,94 @@
 #experience(
   "Yale University", "New Haven, CT",
   "B.S.+M.S., Computer Science", "Sep 2024 — May 2028"
-)[
+)
 - Relevant coursework: Discrete Math, Systems Programming, Compilers, VLSI, Intensive Physics
- ]
 
 #experience(
   "Cold Spring Harbor High School", "Cold Spring Harbor, NY",
   "4.22 GPA, 1580 SAT", "Sep 2020 — Jun 2024"
-)[
+)
 - Relevant coursework: Linear Algebra, Multivariable Calculus, Physics C, 12× AP 5's
-]
 
 #experience(
   "Columbia University Science Honors Program", "New York, NY",
   "Weekend coursework in Relativity, Quantum Computing, and Materials Science", "Sep 2022 — May 2024"
-)[]
-#v(spacing-between)
+)
 
 = Work
 #experience(
   [Head of Platform at #link("https://sea12.co")[Sea12]], "New York, NY",
   [Led full-stack development and deployment of our #link("https://sea12.co/orchestrator")[AI agent orchestration platform]],
   "Apr 2025 — Aug 2025"
-)[]
-#v(spacing-between)
+)
 
 = Research
 #experience(
   [#link("https://avlsi.csl.yale.edu")[Asynchronous VLSI & Architecture Group]], 
   "Yale University",
   "Designing silicon modules for inter-chip communication", "Jan 2025 — Present"
-)[]
+)
 
 #experience(
-
   [#link("https://www.bioelectronics-lab.org")[Bioelectronics Lab]], 
   "Feinstein Institutes for Medical Research",
   "Improved radio transmission protocol for rodent-implanted neural recording device", "Jun 2024 — Aug 2024"
-)[]
+)
 
 #experience(
   [#link("https://naplab.ee.columbia.edu")[Neural Acoustic Processing Lab]], 
   "Columbia Engineering",
   "MATLAB signal processing methods for minimally-invasive neural implants", 
   "Jun 2023 — Aug 2023"
-)[]
+)
 
 #experience(
   [#link("https://hbmlab-nyc.com")[Human Brain Mapping Lab]], 
   "Feinstein Institutes for Medical Research",
   "Python signal processing to study the role of Sharp Wave–Ripples in memory", 
   "Jun 2022 — Mar 2023"
-)[]
-#v(spacing-between)
+)
 
 = Activities
 #experience(
   "Yale Undergraduate Aerospace Association", "New Haven, CT",
   "CubeSat Architecture and Security Board Lead and Project Liquid Team Member", "Sep 2024 — Present"
-)[
-  - Leading migration of satellite codebase from C to C++ and planning of higher-level design paradigms
-  - Designing new STM32-based motherboard for liquid-fuel rocket; rewriting codebase in Rust
-]
+)
+- Leading migration of satellite codebase from C to C++ and planning of higher-level design paradigms
+- Designing new STM32-based motherboard for liquid-fuel rocket; rewriting codebase in Rust
 
 #experience(
   "FIRST Robotics Competition", "Cold Spring Harbor, NY",
   "Build Captain, CAD Captain, Field Technician", "Jan 2021 — Apr 2024"
-)[
-  - Qualified for World Championship in 2023 and 2024
-  - Developed autonomous targeting system in addition to leading design in 2024
-]
+)
+- Qualified for World Championship in 2023 and 2024
+- Developed autonomous targeting system in addition to leading design in 2024
 
 #experience(
   [#link("https://lemelson.mit.edu/teams/cold-spring-harbor-juniorsenior-inventeam")[Lemelson-MIT InvenTeam]], 
-  "Cambridge, Massachusetts",
+  "Cambridge, MA",
   "Team Founder and Technical Lead", 
   "May 2023 — Jun 2024"
-)[
-  - Designed and fabricated a cost-effective, environmentally-friendly, and scalable solution for tick mitigation
-  - 1 of 8 teams selected nationally for \$7,500 grant, only team to win Microsoft Make What's Next grant
-]
-#v(spacing-between)
+)
+- Designed and fabricated a cost-effective, environmentally-friendly, and scalable solution for tick mitigation
+- 1 of 8 teams selected nationally for \$7,500 grant, only team to win Microsoft Make What's Next grant
 
 = Projects
-#link("https://github.com/dezash123/watch-code")[*Watch*]
-- asdfasdf 
-- asd fgjkernglkejg
-#v(spacing-between)
+#block[
+*Watch:* \
+#link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* Open-source Superwhisper clone, written with Tauri (Rust and Svelte)\
+*NHRL:* Designed robots for and competed in the NHRL Combat Robotics Competition in 
+#link("https://cad.onshape.com/documents/5db65241c15c1a40207cdb68/w/5b0878d5d392370d5dc5d720/e/af5d9055308e9599eec4a230")[2023]
+and
+#link("https://cad.onshape.com/documents/fb97b0c83d4990d552ccf9c7/w/65389039cf4ce3811c2bf8e5/e/504ae827bc8a3318a1763ed1")[2024]\
+#link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an FPV drone using KiCAD, Onshape, and Rust
+- Wrote control systems and multiple drivers from scratch; codebase is 100% Rust
+#v(-0.5em)
+*Congressional App Challenge:* Developed an app to track water quality; 2023 Winner, District NY01
+]
 
 #custom-title("Skills")[
-    *Professional Skills:* Sales Expertise, Leadership, Conflict Resolution, Strategic Planning, Negotiation \
-    *Personal Traits:* Hardworking, Alpha Male, Jackhammer, Merciless, Insatiable \
-    *Specialized Talents:* Karate (Black Belt), Jujitsu, Werewolf Hunting, Table Making
+*Programming:* C, Rust, C++, Python, MATLAB, Java, Go, JS/TS, React, Svelte, Verilog, CUDA \
+*CAD:* Experienced in Onshape, Solidworks, Fusion360, KiCad, Magic VLSI \
+
 ]

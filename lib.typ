@@ -37,9 +37,15 @@
     font: font, size: font-size, lang: "en", ligatures: false
   )
 
+  show list: it => {
+    v(-0.4em)
+    it
+  }
+
   show heading.where(
     level: 1
   ): it => block(width: 100%)[
+    #v(-0.3em)
     #set text(font-size + 2pt, weight: "regular")
     #smallcaps(it.body)
     #v(-1em)
@@ -82,7 +88,7 @@
         |
       ])
     }
-    #v(-1em)
+    #v(-.5em)
   ])
   body
 }
@@ -101,16 +107,10 @@
   v(spacing-between)
 }
 
-#let experience(line1-left, line1-right, line2-left, line2-right, body) = {
+#let experience(line1-left, line1-right, line2-left, line2-right) = {
   generic_1x2([*#line1-left*], [*#line1-right*])
   v(-0.65em)
   generic_1x2(line2-left, line2-right)
   v(-0.2em)
-  if body != [] {
-    v(-0.4em)
-    set par(leading: 0.6em)
-    set list(indent: 0.5em)
-    body
-  }
 }
 
