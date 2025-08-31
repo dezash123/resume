@@ -77,7 +77,7 @@
   [*Yale Undergraduate Aerospace Association* | _C, C++, Rust_], "New Haven, CT",
   "CubeSat Architecture and Security Board Lead and Project Liquid Team Member", "Sep 2024 — Present"
 )
-- Leading migration of satellite codebase from C to C++ and planning of higher-level design paradigms
+- Leading conversion of satellite codebase from C to C++ and planning of higher-level design paradigms
 - Designing new STM32-based motherboard for liquid-fuel rocket; rewriting codebase in Rust
 
 #experience(
