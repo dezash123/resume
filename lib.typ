@@ -108,7 +108,7 @@
 }
 
 #let experience(line1-left, line1-right, line2-left, line2-right) = {
-  generic_1x2([*#line1-left*], [*#line1-right*])
+  generic_1x2([#line1-left], [*#line1-right*])
   v(-0.65em)
   generic_1x2(line2-left, line2-right)
   v(-0.2em)

@@ -22,51 +22,51 @@
 
 = Education
 #experience(
-  "Yale University", "New Haven, CT",
+  [*Yale University*], "New Haven, CT",
   "B.S.+M.S., Computer Science", "Sep 2024 — May 2028"
 )
 - Relevant coursework: Discrete Math, Systems Programming, Compilers, VLSI, Intensive Physics
 
 #experience(
-  "Cold Spring Harbor High School", "Cold Spring Harbor, NY",
+  [*Cold Spring Harbor High School*], "Cold Spring Harbor, NY",
   "4.22 GPA, 1580 SAT", "Sep 2020 — Jun 2024"
 )
 - Relevant coursework: Linear Algebra, Multivariable Calculus, Physics C, 12× AP 5's
 
 #experience(
-  "Columbia University Science Honors Program", "New York, NY",
+  [*Columbia University Science Honors Program*], "New York, NY",
   "Weekend coursework in Relativity, Quantum Computing, and Materials Science", "Sep 2022 — May 2024"
 )
 
 = Work
 #experience(
-  [Head of Platform at #link("https://sea12.co")[Sea12]], "New York, NY",
+  [*Head of Platform at #link("https://sea12.co")[Sea12]* | _Go, React, Python, Docker, Kubernetes, GCP, Vercel_], "New York, NY",
   [Led full-stack development and deployment of our #link("https://sea12.co/orchestrator")[AI agent orchestration platform]],
   "Apr 2025 — Aug 2025"
 )
 
 = Research
 #experience(
-  [#link("https://avlsi.csl.yale.edu")[Asynchronous VLSI & Architecture Group]], 
+  [#link("https://avlsi.csl.yale.edu")[*Asynchronous VLSI & Architecture Group*] | _C++, #link("https://avlsi.csl.yale.edu/act/doku.php")[ACT]_], 
   "Yale University",
   "Designing silicon modules for inter-chip communication", "Jan 2025 — Present"
 )
 
 #experience(
-  [#link("https://www.bioelectronics-lab.org")[Bioelectronics Lab]], 
+  [#link("https://www.bioelectronics-lab.org")[*Bioelectronics Lab*] | _C, C++, MATLAB_], 
   "Feinstein Institutes for Medical Research",
   "Improved radio transmission protocol for rodent-implanted neural recording device", "Jun 2024 — Aug 2024"
 )
 
 #experience(
-  [#link("https://naplab.ee.columbia.edu")[Neural Acoustic Processing Lab]], 
+  [#link("https://naplab.ee.columbia.edu")[*Neural Acoustic Processing Lab*] | _MATLAB_], 
   "Columbia Engineering",
   "MATLAB signal processing methods for minimally-invasive human neural implants", 
   "Jun 2023 — Aug 2023"
 )
 
 #experience(
-  [#link("https://hbmlab-nyc.com")[Human Brain Mapping Lab]], 
+  [#link("https://hbmlab-nyc.com")[*Human Brain Mapping Lab*] | _Python, MATLAB_], 
   "Feinstein Institutes for Medical Research",
   "Python signal processing to study the role of Sharp Wave–Ripples in memory", 
   "Jun 2022 — Mar 2023"
@@ -74,21 +74,21 @@
 
 = Activities
 #experience(
-  "Yale Undergraduate Aerospace Association", "New Haven, CT",
+  [*Yale Undergraduate Aerospace Association* | _C, C++, Rust_], "New Haven, CT",
   "CubeSat Architecture and Security Board Lead and Project Liquid Team Member", "Sep 2024 — Present"
 )
 - Leading migration of satellite codebase from C to C++ and planning of higher-level design paradigms
 - Designing new STM32-based motherboard for liquid-fuel rocket; rewriting codebase in Rust
 
 #experience(
-  "FIRST Robotics Competition", "Cold Spring Harbor, NY",
+  [*FIRST Robotics Competition* | _Kotlin, Java, Fusion360, Onshape_], "Cold Spring Harbor, NY",
   "Build Captain, CAD Captain, Field Technician", "Jan 2021 — Apr 2024"
 )
 - Qualified for World Championship in 2023 and 2024
 - Developed autonomous targeting system in addition to leading design in 2024
 
 #experience(
-  [#link("https://lemelson.mit.edu/teams/cold-spring-harbor-juniorsenior-inventeam")[Lemelson-MIT InvenTeam]], 
+  [#link("https://lemelson.mit.edu/teams/cold-spring-harbor-juniorsenior-inventeam")[*Lemelson-MIT InvenTeam*] | _Python, Onshape_],
   "Cambridge, MA",
   "Team Founder and Technical Lead", 
   "May 2023 — Jun 2024"
@@ -109,7 +109,7 @@ and
 #link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an rp2040-based FPV drone using KiCAD, Onshape, and Rust
 - Wrote control systems and multiple drivers from scratch; codebase is 100% Rust
 #v(-0.5em)
-*Congressional App Challenge:* Developed an app to track water quality; 2023 Winner, District NY01
+*Congressional App Challenge:* Developed a React app to track water quality; 2023 Winner, District NY01
 
 = Experience
-*Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, Postgres, CUDA, Verilog, Nix
+*Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, OCaml, CUDA, Verilog, Nix
