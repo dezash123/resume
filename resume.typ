@@ -101,7 +101,8 @@
 - Features: OLED touchscreen, laser pointer, flashight, motor, uSD, 2 mics, IMU, and SpO2+Heart Rate Sensor
 - All drivers open-sourced and written in async Rust, as well as #link("https://github.com/dezash123/watch-code")[code] and #link("https://github.com/dezash123/watch-pcb")[ECAD]
 #v(-0.5em)
-#link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* Open-source Superwhisper clone, written with Tauri (Rust and Svelte)\
+#link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* 
+Open-source cross-platform Superwhisper clone, written with Tauri (Rust and Svelte)\
 *NHRL:* Designed robots for and competed in the NHRL Combat Robotics Competition in 
 #link("https://cad.onshape.com/documents/5db65241c15c1a40207cdb68/w/5b0878d5d392370d5dc5d720/e/af5d9055308e9599eec4a230")[2023]
 and
