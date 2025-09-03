@@ -113,4 +113,5 @@ and
 *Congressional App Challenge:* Developed a React app to track water quality; 2023 Winner, District NY01
 
 = Experience
-*Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, OCaml, CUDA, Verilog, Nix
+*Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, OCaml, CUDA, Verilog, Nix\
+*Skills/Tools:* Linux(Arch, Gentoo, NixOS), Firmware, PyTorch, ECAD, MCAD, 3D Printing, Vim, Zed, Poker\
