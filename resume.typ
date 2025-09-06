@@ -41,8 +41,8 @@
 = Work
 #experience(
   [*Head of Platform at #link("https://sea12.co")[Sea12]* | _Go, React, Python, Docker, Kubernetes, GCP, Vercel_], "New York, NY",
-  [Led full-stack development and deployment of our #link("https://sea12.co/orchestrator")[AI agent orchestration platform]],
-  "Apr 2025 — Aug 2025"
+  [Led development and deployment of our #link("https://sea12.co/orchestrator")[AI automation platform], led team of 5 interns],
+  "Apr '25 — Aug '25"
 )
 
 = Research
