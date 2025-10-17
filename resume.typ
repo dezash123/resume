@@ -25,7 +25,7 @@
   [*Yale University*], "New Haven, CT",
   "B.S.+M.S., Computer Science", "Sep 2024 — May 2028"
 )
-- Relevant coursework: Discrete Math, Systems Programming, Compilers, VLSI, Intensive Physics
+- Relevant coursework: Discrete Math, Systems Programming, Compilers, VLSI, Trustworthy Deep Learning
 
 #experience(
   [*Cold Spring Harbor High School*], "Cold Spring Harbor, NY",
@@ -41,7 +41,7 @@
 = Work
 #experience(
   [*Head of Platform at #link("https://sea12.co")[Sea12]* | _Go, React, Python, Docker, Kubernetes, GCP, Vercel_], "New York, NY",
-  [Led development and deployment of our #link("https://sea12.co/orchestrator")[AI automation platform], led team of 5 interns],
+  [Built and deployed our #link("https://sea12.co/orchestrator")[AI automation platform]; Led team of 5 interns],
   "Apr '25 — Aug '25"
 )
 
@@ -108,7 +108,7 @@ Open-source cross-platform Superwhisper clone, written with Tauri (Rust and Svel
 and
 #link("https://cad.onshape.com/documents/fb97b0c83d4990d552ccf9c7/w/65389039cf4ce3811c2bf8e5/e/504ae827bc8a3318a1763ed1")[2024]\
 #link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an rp2040-based FPV drone using KiCAD, Onshape, and Rust
-- Wrote control systems and multiple drivers from scratch; codebase is 100% Rust
+- Wrote control systems and multiple drivers from scratch; 100% Rust codebase
 #v(-0.5em)
 *Congressional App Challenge:* Developed a React app to track water quality; 2023 Winner, District NY01
 
