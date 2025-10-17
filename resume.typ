@@ -85,7 +85,7 @@
   "Build Captain, CAD Captain, Field Technician", "Jan 2021 — Apr 2024"
 )
 - Qualified for World Championship in 2023 and 2024
-- Developed autonomous targeting system in addition to leading design in 2024
+- Built autonomous targeting system in addition to leading design in 2024
 
 #experience(
   [#link("https://lemelson.mit.edu/teams/cold-spring-harbor-juniorsenior-inventeam")[*Lemelson-MIT InvenTeam*] | _Python, Onshape_],
@@ -110,7 +110,7 @@ and
 #link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an rp2040-based FPV drone using KiCAD, Onshape, and Rust
 - Wrote control systems and multiple drivers from scratch; 100% Rust codebase
 #v(-0.5em)
-*Congressional App Challenge:* Developed a React app to track water quality; 2023 Winner, District NY01
+*Congressional App Challenge:* Built a React app to track water quality; 2023 Winner, District NY01
 
 = Experience
 *Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, OCaml, CUDA, Verilog, Nix\
