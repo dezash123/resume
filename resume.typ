@@ -97,10 +97,12 @@
 - 1 of 8 teams selected nationally for \$7,500 grant, only team to win Microsoft Make What's Next grant
 
 = Projects
-*Watch:* Building an esp32s3-based smartwatch using KiCAD, Onshape, and Rust
+#link("https://github.com/dezash123/ring")[*Ring*]*:* Building an nRF52833-based smart ring featuring all indutry features + a mic, in a smaller size\
+*Watch:* Building an esp32s3-based smartwatch 
+#v(-.3em)
 - Features: OLED touchscreen, laser pointer, flashight, motor, uSD, 2 mics, IMU, and SpO2+Heart Rate Sensor
 - All drivers open-sourced and written in async Rust, as well as #link("https://github.com/dezash123/watch-code")[code] and #link("https://github.com/dezash123/watch-pcb")[ECAD]
-#v(-0.5em)
+#v(-.8em)
 #link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* 
 Open-source cross-platform Superwhisper clone, written with Tauri (Rust and Svelte)\
 *NHRL:* Designed robots for and competed in the NHRL Combat Robotics Competition in 
@@ -109,9 +111,9 @@ and
 #link("https://cad.onshape.com/documents/fb97b0c83d4990d552ccf9c7/w/65389039cf4ce3811c2bf8e5/e/504ae827bc8a3318a1763ed1")[2024]\
 #link("https://github.com/dezash123/drone")[*Drone*]*:* Designed, built, and programmed an rp2040-based FPV drone using KiCAD, Onshape, and Rust
 - Wrote control systems and multiple drivers from scratch; 100% Rust codebase
-#v(-0.5em)
+#v(-.5em)
 *Congressional App Challenge:* Built a React app to track water quality; 2023 Winner, District NY01
-
+#v(-.5em)
 = Experience
 *Languages:* C, Rust, C++, Python, MATLAB, Java, Kotlin, Go, React, Svelte, OCaml, CUDA, Verilog, Nix\
 *Skills/Tools:* Linux(Arch, Gentoo, NixOS), Firmware, PyTorch, ECAD, MCAD, 3D Printing, Vim, Zed, Poker\
