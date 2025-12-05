@@ -29,7 +29,7 @@
 
 #experience(
   [*Cold Spring Harbor High School*], "Cold Spring Harbor, NY",
-  "4.22 GPA, 1580 SAT", "Sep 2020 — Jun 2024"
+  "4.22 GPA, 1570 SAT", "Sep 2020 — Jun 2024"
 )
 - Relevant coursework: Linear Algebra, Multivariable Calculus, Physics C, 12× AP 5's
 
