@@ -25,7 +25,7 @@
   [*Yale University*], "New Haven, CT",
   "B.S.+M.S., Computer Science", "Sep 2024 — May 2028"
 )
-- Relevant coursework: Discrete Math, Systems Programming, Compilers, VLSI, Trustworthy Deep Learning
+- Discrete Math, Compilers, VLSI, LLMs, Computer Architecture, Trustworthy Deep Learning
 
 #experience(
   [*Cold Spring Harbor High School*], "Cold Spring Harbor, NY",
@@ -75,17 +75,15 @@
 = Activities
 #experience(
   [*Yale Undergraduate Aerospace Association* | _C, C++, Rust_], "New Haven, CT",
-  "CubeSat Architecture and Security Board Lead and Project Liquid Team Member", "Sep 2024 — Present"
+  "CubeSat Architecture and Security Board Lead and Project Liquid Team Member", "Sep 2024 — May 2025"
 )
-- Leading conversion of satellite codebase from C to C++ and planning of higher-level design paradigms
-- Designing new STM32-based motherboard for liquid-fuel rocket; rewriting codebase in Rust
+- Led conversion of satellite codebase from C to C++ and planning of higher-level design paradigms
 
 #experience(
   [*FIRST Robotics Competition* | _Kotlin, Java, Fusion360, Onshape_], "Cold Spring Harbor, NY",
   "Build Captain, CAD Captain, Field Technician", "Jan 2021 — Apr 2024"
 )
-- Qualified for World Championship in 2023 and 2024
-- Built autonomous targeting system in addition to leading design in 2024
+- Built autonomous targeting system and led design, qualified for World Championship in 2023 and 2024 
 
 #experience(
   [#link("https://lemelson.mit.edu/teams/cold-spring-harbor-juniorsenior-inventeam")[*Lemelson-MIT InvenTeam*] | _Python, Onshape_],
@@ -103,8 +101,6 @@
 - Features: OLED touchscreen, laser pointer, flashight, motor, uSD, 2 mics, IMU, and SpO2+Heart Rate Sensor
 - All drivers open-sourced and written in async Rust, as well as #link("https://github.com/dezash123/watch-code")[code] and #link("https://github.com/dezash123/watch-pcb")[ECAD]
 #v(-.8em)
-#link("https://github.com/dezash123/openwhisper")[*Openwhisper*]*:* 
-Open-source cross-platform Superwhisper clone, written with Tauri (Rust and Svelte)\
 *NHRL:* Designed robots for and competed in the NHRL Combat Robotics Competition in 
 #link("https://cad.onshape.com/documents/5db65241c15c1a40207cdb68/w/5b0878d5d392370d5dc5d720/e/af5d9055308e9599eec4a230")[2023]
 and
